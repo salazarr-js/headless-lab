@@ -1,6 +1,6 @@
 # 🧪 Headless Lab
 
-Playground for testing self-hosted headless CMS
+Playground to test/learn self-hosted headless CMS
 
 ## Resources
 - https://github.com/strapi/strapi
