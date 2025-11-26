@@ -9,6 +9,8 @@ Playground to test/learn self-hosted headless CMS
 - https://github.com/keystonejs/keystone
 - https://github.com/TryGhost/Ghost
 - https://github.com/medusajs/medusa
+### Vue/Nuxt
+- https://pruvious.com/
 
 ## APIs/DBs
 - https://supabase.com/
